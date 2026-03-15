@@ -16,3 +16,8 @@ This repository contains my current resume.
 - CompTIA Linux+
 - CompTIA Security+
 - AWS Solutions Architect Associate (in progress)
+
+## Download My Resume Here
+Click below to download myy resume
+
+Cheri_Johnson.Resume.docx
