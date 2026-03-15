@@ -20,4 +20,4 @@ This repository contains my current resume.
 ## Download My Resume Here
 Click below to download myy resume
 
-Cheri_Johnson.Resume.docx
+Cheri_Johnson.Resume.docx 
