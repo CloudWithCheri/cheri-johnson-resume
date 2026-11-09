@@ -20,4 +20,4 @@ This repository contains my current resume.
 ## Download My Resume Here
 Click below to download my resume
 
-[Download My Resume]([https://raw.githubusercontent.com/CloudWithCheri/cheri-johnson-resume/refs/heads/main/Cheri_Johnson.Resume.docx)
+[📥 View My Resume](https://raw.githubusercontent.com/CloudWithCheri/cheri-johnson-resume/refs/heads/main/Cheri_Johnson.Resume.docx)
